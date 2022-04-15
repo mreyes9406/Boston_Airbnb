@@ -18,7 +18,7 @@ I was interested in deriving the following insights from the Boston Airbnb datab
 1. Which are the neighbourhoods in the city offering more rental locations?
 2. What is the average price for each neighbourhood?
 3. Despite of the prive level, which are the neighbourhoods generating more income from Airbnb rentals?
-4. Are there any measurable factors driving the price of listings?
+4. Are there any measurable factors driving the price of listings? Can a model be built to predict prices?
 
 ## File Descriptions
 
