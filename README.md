@@ -28,7 +28,7 @@ There are 4 notebooks available here where the steps to address each question ar
 
 ## Results
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@mreyes9406/how-much-will-you-make-by-renting-your-place-in-boston-6e4749f33a62).
 
 ## Licensing
 
