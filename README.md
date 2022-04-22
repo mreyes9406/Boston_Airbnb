@@ -13,11 +13,11 @@ Brief analysis and linear model based on Boston Airbnb price data
 
 To run this project, the following libraries are needed:
 
--Matplotlib
--Numpy
--Pandas
--scikit-learn
--Seaborn
+1. Matplotlib
+2. Numpy
+3. Pandas
+4. scikit-learn
+5. Seaborn
 
 ## Project Motivation<a name="motivation"></a>
 
